@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E875A4F-6860-4FB0-B80D-F92FCFCF6E8B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0181171D-39C2-41E7-A252-8B90CA208C00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Learn Swiff.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "learning()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6740B47-00EC-4F0D-8D4C-47EC1AD03AC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Components/UIRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DE9B690-E86F-458A-9F50-B6B07CF1DD6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Views/AutoTrakCal/AutoTrakCal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1DE9B690-E86F-458A-9F50-B6B07CF1DD6E - cc2aa6b238b22ce3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, BHITrainingApp.UIRowSmallControl, BHITrainingApp.UIRowSmallControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, BHITrainingApp.UIRowSmallControl, BHITrainingApp.UIRowSmallControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer)&gt;&gt; in BHITrainingApp.AutoTrakCal.body.getter : some"
+                  moduleName = "BHITrainingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giangson/Desktop/BHITrainingApp/BHITrainingApp/BHITrainingApp/Views/AutoTrakCal/AutoTrakCal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "2844">
+               </Location>
+               <Location
+                  uuid = "1DE9B690-E86F-458A-9F50-B6B07CF1DD6E - 7fe1b8f25fd3a937"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, BHITrainingApp.DLGView, BHITrainingApp.UIRowSmallControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, BHITrainingApp.DLGView, BHITrainingApp.UIRowSmallControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowBigControl, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, BHITrainingApp.UIRowResult, SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer)&gt;&gt; in BHITrainingApp.AutoTrakCal.body.getter : some"
+                  moduleName = "BHITrainingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giangson/Desktop/BHITrainingApp/BHITrainingApp/BHITrainingApp/Views/AutoTrakCal/AutoTrakCal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "3104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08C98E1F-BE4D-4D02-A682-9775AFB63A3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Components/ExpectedDLSUI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "271D3C11-CBB2-4A49-B168-113E665E221C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Views/AutoTrakCal/AutoTrakCal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB31A3F9-DEA2-4452-96D5-222128410D40"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Views/AutoTrakCal/SteerDirectionController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8123B9C-1389-4153-935E-09D8A4DC1AD8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Models/Direction.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "resultantDirection"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C9A5E5A-18E7-4652-ABF5-C9331DD1B7AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BHITrainingApp/Models/Direction.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "resultantDirection"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1C9A5E5A-18E7-4652-ABF5-C9331DD1B7AD - 9cf2995a351e0692"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BHITrainingApp.Direction.resultantDirection.getter : Swift.Double"
+                  moduleName = "BHITrainingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giangson/Desktop/BHITrainingApp/BHITrainingApp/BHITrainingApp/Models/Direction.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "1C9A5E5A-18E7-4652-ABF5-C9331DD1B7AD - 9cf2995a351e0692"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BHITrainingApp.Direction.resultantDirection.getter : Swift.Double"
+                  moduleName = "BHITrainingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/giangson/Desktop/BHITrainingApp/BHITrainingApp/BHITrainingApp/Models/Direction.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
